@@ -1,4 +1,4 @@
-# ReconRaptor v4.0
+# ReconRaptor
 
 **A Flexible Web Reconnaissance Tool**
 
@@ -48,7 +48,7 @@ ReconRaptor is a Python-based reconnaissance tool designed to map out web applic
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    # git clone <your-repo-url>
+    # git clone [repo](https://github.com/S2K7x/reconraptor)
     # cd recon-raptor
     ```
 2.  **Install dependencies:**
@@ -145,17 +145,3 @@ python recon_raptor.py <target_url> [options]
 * **Authentication:** No built-in support for handling complex login flows beyond passing cookies/headers.
 * **Performance:** Can be slow on large sites or with large wordlists, especially with delays or low worker counts.
 
-## License
-
-(Specify your chosen license here, e.g., MIT License)
-
-```
-[Link to LICENSE file or full license text]
-```
-
-## Contributing
-
-(Optional: Add guidelines if you want others to contribute)
-
-```
-Contributions are welcome! Please read CONTRIBUTING.md for details.
